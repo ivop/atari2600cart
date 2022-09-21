@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/ivo/mygit/atari2600cart/kicad/2600cart.sch)
-    (date "Wed 21 Sep 2022 08:04:17 PM CEST")
+    (date "Thu 22 Sep 2022 12:25:39 AM CEST")
     (tool "Eeschema 5.1.9+dfsg1-1+deb11u1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
