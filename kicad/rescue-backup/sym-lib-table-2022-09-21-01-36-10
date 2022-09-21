@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name 2600cart-rescue)(type Legacy)(uri ${KIPRJMOD}/2600cart-rescue.lib)(options "")(descr ""))
-)
